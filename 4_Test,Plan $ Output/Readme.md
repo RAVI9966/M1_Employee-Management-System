@@ -1,6 +1,6 @@
 # TEST PLAN:
 
-## High level test plan
+## High Level Test Plan
 
 | Test ID |	Description |	Expected Input | Expected Output | Actual Output | Type Of Test |
 | ---- | --------- |----- |---- | ----- | ------ |
@@ -10,3 +10,12 @@
 | H_04 | Check if the user want to see the Complete list of the Employee, then select the option as display |	Display in a file |	SUCCESS |	SUCCESS |	Required based |
 | H_05 | Check if the user want to display basic information then give employee id if present in the list will give details else it will display the message as "ERROR RECORD NOT FOUND" | Users choice as an integer | SUCCESS |	SUCCESS |	Required based |
 | H_06 | Check if the system asks the user for repeating the process and exits the system when choosed | User's choice | SUCCESS | SUCCESS | Scenario based |
+
+## Low Level Test Plan
+
+| Test ID |	Description |	Expected Input |	Expected Output |	Actual Output |	Type Of Test |
+| ----- | ---------- | ------ | ------ | ------ | ------ |
+| L_01 | When choosing from the options, check if the input is valid or invalid |	User's Choice	| Invalid Message/ Invoke the process	| SUCCESS |	Scenario based |
+| L_02 | Check that the details of the record	| user choice |	SUCCESS |	SUCCESS |	Scenario based |
+| L_03 | Check user's choice when selects dispaly list of the Employee | SUCCESS | SUCCESS | SUCCESS | Scenario based |
+| L_04 | If the Record is already exist	| user gives integer as emp id | Already Exists |	Already Exists | Scenario based |
