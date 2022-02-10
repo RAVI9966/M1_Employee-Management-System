@@ -15,6 +15,10 @@
 * Provides full functional reports to management of Company.
 * The objective of this project is to provide a comprehensive approach towards the management of employee information.
 
+## SDLC Activity Based Learning
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a9b698d1a3464123ba14d2be5e20b1ce)](https://www.codacy.com/gh/RAVI9966/M1_Employee-Management-System_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RAVI9966/M1_Employee-Management-System_Util&amp;utm_campaign=Badge_Grade)
+
 ## Folder Structure
 
 | Folder | Description |
@@ -24,3 +28,5 @@
 | 3_Implementation	| All code and documentation |
 | 4_Testplan & output |	Documents with test plans and procedures |
 | Report |	Report of the whole project |
+
+
