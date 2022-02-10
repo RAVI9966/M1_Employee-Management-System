@@ -31,12 +31,12 @@ void check_openFile(void){
 void test_add(void){
 
     id = 1;
-    strcpy(name, "sowmika");
+    strcpy(name, "Ravi");
     sal=30000;
-    strcpy(psaddr, "Guntur");
-    strcpy(prtaddr, "Guntur");
-    phone=9848032919;
-    strcpy(mail,"sowmikakurra@gmail.com");
+    strcpy(psaddr, "Gadwal");
+    strcpy(prtaddr, "Gadwal");
+    phone=9966932965;
+    strcpy(mail, "ravireddyp96@gmail.com");
     
     
 
@@ -46,9 +46,9 @@ void test_add(void){
     fwrite(&id,4,1,f);
 
     TEST_ASSERT_EQUAL(1,start->id);
-    TEST_ASSERT_EQUAL_STRING("sowmika",start->name);
-    TEST_ASSERT_EQUAL_STRING("Guntur",start->psaddr);
-    TEST_ASSERT_EQUAL_STRING("9848032919",start->phone);
+    TEST_ASSERT_EQUAL_STRING("Ravi",start->name);
+    TEST_ASSERT_EQUAL_STRING("Gadwal",start->psaddr);
+    TEST_ASSERT_EQUAL_STRING("9966932965",start->phone);
 
 }
 
@@ -62,9 +62,9 @@ void test_display(void){
 }
 void test_search(void){
     
-    TEST_ASSERT_EQUAL(SUCCESS, find_by_id(start,260842,&result));
-    TEST_ASSERT_EQUAL(260842, result.id);
-    TEST_ASSERT_EQUAL(0,find_by_id(start,260842,&result));
+    TEST_ASSERT_EQUAL(SUCCESS, find_by_id(start,11903609,&result));
+    TEST_ASSERT_EQUAL(11903609, result.id);
+    TEST_ASSERT_EQUAL(0,find_by_id(start,11903609,&result));
 
 }
 int main(void)
