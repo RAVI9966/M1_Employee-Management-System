@@ -19,6 +19,10 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a9b698d1a3464123ba14d2be5e20b1ce)](https://www.codacy.com/gh/RAVI9966/M1_Employee-Management-System_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RAVI9966/M1_Employee-Management-System_Util&amp;utm_campaign=Badge_Grade)
 
+![Screenshot (154)](https://user-images.githubusercontent.com/63452014/153416726-3631e11d-0239-495a-b36d-fb48eab9d426.png)
+
+
+
 ## Folder Structure
 
 | Folder | Description |
