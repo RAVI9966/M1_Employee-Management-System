@@ -1,4 +1,4 @@
-name: Static Code Quality- Cppcheck
+name: Contribution Check - Git Inspector
 
 on:
   push:
