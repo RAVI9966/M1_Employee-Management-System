@@ -17,9 +17,7 @@
 
 ## SDLC Activity Based Learning
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a9b698d1a3464123ba14d2be5e20b1ce)](https://www.codacy.com/gh/RAVI9966/M1_Employee-Management-System_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RAVI9966/M1_Employee-Management-System_Util&amp;utm_campaign=Badge_Grade)
-
-[![CI](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/main.yml/badge.svg)](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/main.yml)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a9b698d1a3464123ba14d2be5e20b1ce)](https://www.codacy.com/gh/RAVI9966/M1_Employee-Management-System_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RAVI9966/M1_Employee-Management-System_Util&amp;utm_campaign=Badge_Grade) | [![CI](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/main.yml/badge.svg)](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/main.yml)
 
 
 ## Code Inspector
