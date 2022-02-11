@@ -47,6 +47,9 @@
 
 # References
 
-https://www.google.com/search?q=youtube+c+language&rlz=1C1CHBF_enIN987IN987&oq=youtube+c+langu&aqs=chrome.0.0i512l2j69i57j0i22i30l5j69i64.8577j0j7&sourceid=chrome&ie=UTF-8
+You tube C programming learning 
+greefs for greeks 
+
+
 
 
