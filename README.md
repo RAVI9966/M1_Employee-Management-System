@@ -27,8 +27,8 @@
 
 [![Contribution Check - Git Inspector](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/vs.yml/badge.svg)](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/vs.yml)
 
-![code Quality]https://api.codiga.io/project/30960/score/svg
-![code grade]https://api.codiga.io/project/30960/status/svg
+![code Quality](https://api.codiga.io/project/30960/score/svg)
+![code grade](https://api.codiga.io/project/30960/status/svg)
 
 <a href="https://app.codiga.io/public/user/github/RAVI9966">
    <img src="https://api.codiga.io/public/badge/user/github/RAVI9966?style=light" alt="codiga badge" />
