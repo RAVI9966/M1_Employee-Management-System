@@ -47,8 +47,8 @@
 
 # References
 
-You tube C programming learning 
-greefs for greeks 
+* You tube C programming learning 
+* greefs for greeks 
 
 
 
