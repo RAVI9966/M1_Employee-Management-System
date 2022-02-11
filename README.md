@@ -21,7 +21,7 @@
 
 [![CI](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/c-cpp.yml)
 
-[![Code Quality - Static Code - Cppcheck](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/Code%20Quality%20-%20Static%20Code%20-%20Cppcheck.yml/badge.svg)](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/Code%20Quality%20-%20Static%20Code%20-%20Cppcheck.yml)
+[![Code Quality - Static Code - Cppcheck](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/Code%20Quality%20%20%20Static%20Code%20-%20Cppcheck.yml/badge.svg)](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/Code%20Quality%20%20%20Static%20Code%20-%20Cppcheck.yml)
 
 [![Unit Testing - Unity](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/unity%20y.yml/badge.svg?branch=main&event=create)](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/unity%20y.yml)
 
