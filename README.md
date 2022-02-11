@@ -26,6 +26,10 @@
 [![Unit Testing - Unity](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/unity%20y.yml/badge.svg?branch=main&event=create)](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/unity%20y.yml)
 
 [![Contribution Check - Git Inspector](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/vs.yml/badge.svg)](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/vs.yml)
+
+<a href="https://app.codiga.io/public/user/github/RAVI9966">
+   <img src="https://api.codiga.io/public/badge/user/github/RAVI9966?style=light" alt="codiga badge" />
+</a>
  
 
 
