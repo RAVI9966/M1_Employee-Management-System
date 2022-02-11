@@ -14,3 +14,13 @@
 ## Code Inspector
 
 ![Screenshot (154)](https://user-images.githubusercontent.com/63452014/153416726-3631e11d-0239-495a-b36d-fb48eab9d426.png)
+
+## Output Images
+
+![Home Screen](https://user-images.githubusercontent.com/63452014/153546212-1e02f81c-b477-4ade-b890-358d3e4c21e1.png)
+
+![Main Menu](https://user-images.githubusercontent.com/63452014/153546263-ae175891-4b55-4f58-892d-538e3e70949a.png)
+
+![Login screen1](https://user-images.githubusercontent.com/63452014/153546291-f6d5882c-5414-4d90-bd08-f5fa502de2c2.png)
+
+![Error case](https://user-images.githubusercontent.com/63452014/153546303-04a9b994-f602-4cab-80b1-c999d9e49c85.png)
