@@ -1,4 +1,4 @@
-name: Unit Testing - Unity
+name: Unit Testing - UNity
 
 on:
   push:
@@ -12,5 +12,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: make
-      run: make -C Implementation/ test
+    - name: make Build.test
+      run: make -C 3_Implementation
