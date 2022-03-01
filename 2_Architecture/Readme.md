@@ -1,4 +1,4 @@
-##  Architecture Diagram:
+##   Behavioural Diagram:
 ![Architecture Design](https://user-images.githubusercontent.com/63452014/153253002-1a891ba9-ac0f-4cf4-9d0c-37ab1bf97cca.png)
 
 
