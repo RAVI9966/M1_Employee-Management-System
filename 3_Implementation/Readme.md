@@ -31,7 +31,7 @@ data_type * pointer_variable_name;
 3.Wild pointer
 4.Dangling pointer
 
-## usage of preprocessor :
+## Usage of Preprocessor :
 
 * The C preprocessor is a macro processor that is used automatically by the C compiler to transform your program before actual compilation. It is called a macro processor because it allows you to define macros, which are brief abbreviations for longer constructs.
 
@@ -39,7 +39,7 @@ data_type * pointer_variable_name;
 
 * Inclusion of header files. These are files of declarations that can be substituted into your program.
 
-## function pointer
+## Function Pointer
 * In the C function pointer is used to resolve the run time-binding. 
 * A function pointer is a pointer that stores the address of the function and invokes the function whenever required.
 *  In C, we can use function pointers to avoid code redundancy.
