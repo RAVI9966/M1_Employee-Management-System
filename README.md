@@ -22,7 +22,7 @@
 | [![CI](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/c-cpp.yml)  |  [![Code Quality - Static Code - Cppcheck](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/Code%20Quality%20%20%20Static%20Code%20-%20Cppcheck.yml/badge.svg)](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/Code%20Quality%20%20%20Static%20Code%20-%20Cppcheck.yml)  |  [![Contribution Check - Git Inspector](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/vs.yml/badge.svg)](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/vs.yml)  |  ![code Quality](https://api.codiga.io/project/30960/score/svg)  ![code grade](https://api.codiga.io/project/30960/status/svg)  |  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a9b698d1a3464123ba14d2be5e20b1ce)](https://www.codacy.com/gh/RAVI9966/M1_Employee-Management-System_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RAVI9966/M1_Employee-Management-System_Util&amp;utm_campaign=Badge_Grade)  |  [![Unit Testing - Unity](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/Update.yml/badge.svg)](https://github.com/RAVI9966/M1_Employee-Management-System_Util/actions/workflows/Update.yml) |
 
 
-
+## Codiga
 <a href="https://app.codiga.io/public/user/github/RAVI9966">
    <img src="https://api.codiga.io/public/badge/user/github/RAVI9966?style=light" alt="codiga badge" />
 </a>
