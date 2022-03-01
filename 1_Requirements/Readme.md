@@ -86,3 +86,11 @@
 | LR06 |	If opening the login page fails system shloud prompt the message "Invalid login" |	HR07 | TBD-S1 |
 | LR07 |	After adding each record it asks whether you need to add an another record or Not and Display message as "Y/N" if want to add/modify/delete another record can click Y/N	 | HR01,HR02,HR03,HR04 | TBD-S1 |
 
+## Best Methods To Be Followed
+
+* Used functions to decrease dependency on main function
+* Used structures and arrays to accept the inputs from user and store the values which helped in creating easy design of Employee management system.
+* Printf statements have been placed only wherever necessary to avoid confusions
+* Created header file so that the fuctions can be used else where ever required without any difficulty
+* Unit testing is done to avoid any computational errors.
+
