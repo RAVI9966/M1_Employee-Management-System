@@ -23,7 +23,7 @@
 
 ## Best Practices
 
-  [x] Checked all the possibilities of output
-  [x] Mentioned all the inputs for better understanding
-  [x] Presented in tabular form for easy understanding
-  [x] Both High level and low level Test plans are shown
+  - [x] Checked all the possibilities of output
+  - [x] Mentioned all the inputs for better understanding
+  - [x] Presented in tabular form for easy understanding
+  - [x] Both High level and low level Test plans are shown
