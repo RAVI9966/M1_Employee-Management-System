@@ -13,3 +13,10 @@
 ## EMS
 
 ![Flowchart](https://user-images.githubusercontent.com/63452014/153253497-ec06e9f4-e5e0-483f-9726-35ee9632c388.png)
+
+## Best Methods To Be Followed
+
+ * Exact Mapping of code to avoid confusions
+ * Mentioning of both High level and Low level Behavioral and structural diagrams for better understanding
+ * Followed the exact symbols to make the understanding easier
+ * Detailed explanation in Low level Behavioural and Structural Diagrams
