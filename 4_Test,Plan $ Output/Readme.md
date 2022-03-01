@@ -19,3 +19,10 @@
 | L_02 | Check that the details of the record	| user choice |	SUCCESS |	SUCCESS |	Scenario based |
 | L_03 | Check user's choice when selects dispaly list of the Employee | SUCCESS | SUCCESS | SUCCESS | Scenario based |
 | L_04 | If the Record is already exist	| user gives integer as emp id | Already Exists |	Already Exists | Scenario based |
+
+
+## Best Practices
+** Checked all the possibilities of output
+ ** Mentioned all the inputs for better understanding
+ ** Presented in tabular form for easy understanding
+ ** Both High level and low level Test plans are shown
