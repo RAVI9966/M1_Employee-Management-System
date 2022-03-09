@@ -56,6 +56,8 @@
 * greefs for greeks 
 * Reference from C text books
 
-
+| ravi | ltts | lpu |
+| ----- | ---- | ----- |
+| 52 | 58 | 25 |
 
 
